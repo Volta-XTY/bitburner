@@ -26,4 +26,7 @@ Harder crimes are typically more profitable, and also give more EXP.
 
 Crime details
 ^^^^^^^^^^^^^
-TODO
+
+======= ========== ========= 
+Crime     Time        Karma
+======= ========== =========
